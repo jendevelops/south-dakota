@@ -1,0 +1,28 @@
+/* body{
+  background-color: #E4B77B;
+} */
+
+.jumbotron{
+  background-color: #E4B77B;
+}
+
+h1.title {
+  color: #432A16;
+}
+
+.brown{
+  background-color: #885B3E;
+  border-color: #C89050;
+}
+
+.panel-title{
+  color: #C89050;
+}
+
+.brown-outline{
+  border: 1px solid #C89050;
+}
+
+.emphasis{
+  color: #CAA4B5;
+}
